@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "/Users/angiedelgado/front-end-practice"
+		}
+	],
+    "settings": {
+        "workbench.colorCustomizations": {
+            "activityBar.background": "#233030",
+            "titleBar.activeBackground": "#314343",
+            "titleBar.activeForeground": "#F8FAFA"
+        },
+        "liveServer.settings.port": 5501
+    }
+}
